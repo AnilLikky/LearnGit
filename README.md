@@ -1,2 +1,2 @@
 # LearnGit
-Learnig code 
+Learnig Java code 
